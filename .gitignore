@@ -1,0 +1,9 @@
+# ignore these folders:
+# ignore these files:
+
+# ------------------------------------------------------------------------------
+# include these folders:
+!/.idea/
+!/.vscode/
+
+# include these files:
