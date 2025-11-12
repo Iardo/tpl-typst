@@ -1,4 +1,5 @@
-#import "lib/header/fullpage.typ": header
+#import "header.typ": header
+#import "footer.typ"
 
 #let designdoc(
   title: "",
