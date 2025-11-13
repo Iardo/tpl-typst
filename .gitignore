@@ -1,9 +1,8 @@
 # ignore these folders:
+output
+
 # ignore these files:
 
 # ------------------------------------------------------------------------------
 # include these folders:
-!/.idea/
-!/.vscode/
-
 # include these files:
