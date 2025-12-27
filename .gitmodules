@@ -1,0 +1,3 @@
+[submodule "vendor/gui-typst"]
+	path = vendor/gui-typst
+	url = https://github.com/Iardo/gui-typst
