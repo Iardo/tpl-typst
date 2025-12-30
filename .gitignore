@@ -1,9 +1,9 @@
-# ignore these folders:
+# include folders:
+# ignored folders:
 output/*
 
-# ignore these files:
-
-# ------------------------------------------------------------------------------
-# include these folders:
-# include these files:
+# --------------------
+# include files:
 !.gitkeep
+
+# ignored files:

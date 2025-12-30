@@ -22,7 +22,7 @@ python ./build.py
 ## Dependencies
 | Name                                               | Description         |
 | -------------------------------------------------- | ------------------- |
-| [`tpl-typst`](https://github.com/Iardo/tpl-typst)  | Components library  |
+| [`gui-typst`](https://github.com/Iardo/gui-typst)  | Components library  |
 
 
 ## Resources
