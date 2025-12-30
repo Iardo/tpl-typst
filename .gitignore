@@ -1,9 +1,11 @@
 # include folders:
 # ignored folders:
 output/*
+vendor/*
 
 # --------------------
 # include files:
 !.gitkeep
 
 # ignored files:
+.gitmodules
